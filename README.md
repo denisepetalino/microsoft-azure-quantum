@@ -18,22 +18,8 @@ https://learn.microsoft.com/en-us/training/paths/quantum-computing-fundamentals/
 
 ## Repository Structure
 
-- `notes/` – Module-by-module summaries, diagrams and explanations in my own words.
+- `notes/` – Summaries, diagrams and explanations.
 - `qsharp-examples/` – Small Q# or pseudo-code examples based on the learning content.
-- `resources/` – Glossaries, key terms, further reading and practice questions.
-
----
-
-## Progress
-
-- [ ] Module 1 – Introduction to quantum computing
-- [ ] Module 2 – Qubits, superposition and measurement
-- [ ] Module 3 – Entanglement and quantum gates
-- [ ] Module 4 – Quantum algorithms and applications
-- [ ] Module 5 – Azure Quantum and the ecosystem (if included)
-- [ ] Review and revision notes
-
-I’ll tick these off as I complete each module and commit notes/code.
 
 ---
 
