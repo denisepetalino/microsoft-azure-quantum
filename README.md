@@ -27,7 +27,6 @@ https://learn.microsoft.com/en-us/training/paths/quantum-computing-fundamentals/
 
 - After each module, I write a short summary in `notes/`.
 - Where relevant, I implement a small example in `qsharp-examples/` (or pseudo-code if I’m not using Q# locally yet).
-- I capture important definitions and questions in `resources/key-terms.md` and `resources/questions.md`.
 
 This repo is mainly for:
 1. **Revision**
